@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Pratap Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qubitabhay&label=Profile%20views&color=0e75b6&style=flat" alt="qubitabhay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qubitabhay" alt="qubitabhay" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[![An image of @qubitabhay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qubitabhay)](https://holopin.io/@qubitabhay)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +20,4 @@
 QUBITABHAY/QUBITABHAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![An image of @qubitabhay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qubitabhay)](https://holopin.io/@qubitabhay)
