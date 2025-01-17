@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
-  <a href="www.linkedin.com/in/abhay-pratap-yadav-52452832b" target="_blank">
+  <a href="https://www.linkedin.com/in/abhay-pratap-yadav-52452832b" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #0A66C2;"/>
   </a>
   <a href="https://github.com/QUBITABHAY" target="_blank">
