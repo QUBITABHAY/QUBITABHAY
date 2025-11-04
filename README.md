@@ -13,7 +13,7 @@
 💻 Passionate about crafting **beautiful and performant web & mobile apps**.  
 📚 Currently diving into **Vue.js** and **Bitcoin (Web3/Blockchain)**.  
 🛠️ Skilled in **React, React Native, Next.js, Tailwind CSS, Flask, and Python**.  
-🌐 Check out my portfolio: [abhaypotrfolio.netlify.app](https://abhaypotrfolio.netlify.app)  
+🌐 Check out my portfolio: [abdev.co.in](https://abdev.co.in/)  
 📩 Reach me at: **codingcontestabhay@gmail.com**  
 
 ---
