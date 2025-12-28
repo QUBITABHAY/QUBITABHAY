@@ -13,15 +13,15 @@
 💻 Passionate about crafting **beautiful and performant web & mobile apps**.  
 📚 Currently diving into **Vue.js** and **Bitcoin (Web3/Blockchain)**.  
 🛠️ Skilled in **React, React Native, Next.js, Tailwind CSS, Flask, and Python**.  
-🌐 Check out my portfolio: [abdev.co.in](https://abdev.co.in/)  
-📩 Reach me at: **codingcontestabhay@gmail.com**  
+🌐 Check out my portfolio: [qubitabhay.tech](https://qubitabhay.tech/)  
+📩 Reach me at: **abhayprata.442@gmail.com**  
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhay-pratap-yadav-52452832b" target="_blank">
+  <a href="https://linkedin.com/in/qubitabhay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/qubitabhay" target="_blank">
