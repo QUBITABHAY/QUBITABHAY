@@ -6,7 +6,7 @@ While I’m comfortable working on the frontend, I primarily enjoy **backend dev
 
 I care about **clean code**, scalable design, and learning by building real projects. Recently, I’ve been exploring **Go**, improving my **TypeScript** skills, and learning more about **Web3 & blockchain fundamentals**.
 
-🌐 Portfolio: [qubitabhay.tech](https://qubitabhay.tech)  
+🌐 Portfolio: [qubitabhay.com](https://qubitabhay.com)  
 📩 Email: **abhayprata.442@gmail.com**
 
 ---
@@ -65,14 +65,13 @@ Details on the tools I use:
 
 ### 🚀 Current focus
 
-- Building backend services with Go  
+- Building backend services with Go and Rust
 - Designing PostgreSQL schemas & queries  
 - Automating workflows with GitHub Actions  
-- Deploying projects on Netlify, Vercel & Azure  
-- Exploring Bitcoin & Web3 fundamentals  
+- Deploying projects on Netlify, Vercel & Azure
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF4B8B&center=true&vCenter=true&width=600&lines=Backend-First+Developer+⚙️;CS+Student+🎓;Go+%2B+TypeScript+Learner+🚀;Building+Things+Daily+💻"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF4B8B&center=true&vCenter=true&width=600&lines=Backend-First+Developer+⚙️;Building+Things+Daily+💻"/>
 </p>
 
 <div align="center">
